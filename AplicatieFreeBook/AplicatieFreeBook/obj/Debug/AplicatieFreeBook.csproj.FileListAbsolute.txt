@@ -1,0 +1,16 @@
+C:\Users\anach\source\repos\AplicatieFreeBook\AplicatieFreeBook\bin\Debug\FreeBook.mdf
+C:\Users\anach\source\repos\AplicatieFreeBook\AplicatieFreeBook\bin\Debug\FreeBook_log.ldf
+C:\Users\anach\source\repos\AplicatieFreeBook\AplicatieFreeBook\bin\Debug\AplicatieFreeBook.exe.config
+C:\Users\anach\source\repos\AplicatieFreeBook\AplicatieFreeBook\bin\Debug\AplicatieFreeBook.exe
+C:\Users\anach\source\repos\AplicatieFreeBook\AplicatieFreeBook\bin\Debug\AplicatieFreeBook.pdb
+C:\Users\anach\source\repos\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.csproj.AssemblyReference.cache
+C:\Users\anach\source\repos\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.Properties.Resources.resources
+C:\Users\anach\source\repos\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.csproj.GenerateResource.cache
+C:\Users\anach\source\repos\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.csproj.CoreCompileInputs.cache
+C:\Users\anach\source\repos\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.exe
+C:\Users\anach\source\repos\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.pdb
+C:\Users\anach\source\repos\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.CreeazaContFreeBook.resources
+C:\Users\anach\source\repos\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.FreeBookHome.resources
+C:\Users\anach\source\repos\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.LogareFreeBook.resources
+C:\Users\anach\source\repos\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.MeniuFreeBook.resources
+C:\Users\anach\source\repos\AplicatieFreeBook\AplicatieFreeBook\obj\Debug\AplicatieFreeBook.AfiseazaCarte.resources
